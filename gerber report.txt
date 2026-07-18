@@ -1,0 +1,13 @@
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-F_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-In1_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-In2_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-B_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-F_Paste.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-B_Paste.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-F_Mask.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-B_Mask.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\400W Amplifier\400W Amplifier-job.gbrjob'.
+Info: Done.

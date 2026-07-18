@@ -1,0 +1,48 @@
+** Drc report for 400W Amplifier.kicad_pcb **
+** Created on 2026-07-18T19:07:47+0530 **
+
+** Found 9 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.5575 mm, 72.5000 mm): Rectangle on Edge.Cuts
+    @(98.0500 mm, 95.9500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.5575 mm, 72.5000 mm): Rectangle on Edge.Cuts
+    @(100.5500 mm, 90.4500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.5575 mm, 72.5000 mm): Rectangle on Edge.Cuts
+    @(100.5500 mm, 90.9500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.5575 mm, 72.5000 mm): Rectangle on Edge.Cuts
+    @(100.5500 mm, 90.9500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.5575 mm, 72.5000 mm): Rectangle on Edge.Cuts
+    @(100.5500 mm, 95.9500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.5575 mm, 72.5000 mm): Rectangle on Edge.Cuts
+    @(100.5500 mm, 96.4500 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(100.5575 mm, 72.5000 mm): Rectangle on Edge.Cuts
+    @(100.5500 mm, 96.4500 mm): Segment on F.Silkscreen
+[lib_footprint_mismatch]: Footprint 'CUI_SJ-3523-SMT-TR' does not match copy in library 'audio jack'.
+    Local override; warning
+    @(104.0500 mm, 93.4500 mm): Footprint J1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.1500 mm, 88.5500 mm): Reference 'C10'
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(99.6000 mm, 71.2500 mm): Zone [GND] on F.Cu, In2.Cu and B.Cu
+    @(99.6000 mm, 71.2500 mm): Zone [GND] on F.Cu, In2.Cu and B.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **
